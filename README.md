@@ -1,16 +1,20 @@
-### Hi there 👋
+### 這是誰？
 
-<!--
-**yuyuancha/yuyuancha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+口摳哇 `yuyuancha` 的 Git Hub 首頁！
 
-Here are some ideas to get you started:
+這邊存放著我的練習作品，以及一些自學的心得，有興趣都可以參考看看😉
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💻 Back-end developer
+
+目前是位後端開發工程師(也有接觸些前端部分)，現在較常使用的語言為 `GoLang`、`PHP`、`Javascript`，曾經也有使用 `C#` 設計過 `Unity` 引擎開發的小遊戲。<br>
+後來接觸 `GoLang` 後，被其精簡風格所吸引，所以後來比較多分享的都是 `Go` 相關的練習🤣
+
+#### ⭐️ Hobby
+
+- 🖌 繪圖
+- 🎵 音樂
+- 📷 攝影
+
+#### 🔗 [Blog](https://mryuyuan.com)
+
+我會不定期的上去更新自己的生活，或是自學的心得唷～
